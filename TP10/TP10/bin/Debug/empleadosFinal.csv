@@ -1,0 +1,5 @@
+ID;Tipo de Propiedad;Tipo de Operacion;Tamanio;Cantidad de Banios;Cantidad de Habitacion;Precio;Direccion;Estado
+0;Departamento;Alquiler;159;3;5;459372;Cordoba 100;True
+1;Casa;Alquiler;123;2;3;868319;Mendoza 2000;True
+2;Departamento;Alquiler;204;1;5;594166;Av. Sarmiento 2;True
+3;Penthouse;Alquiler;321;3;3;782333;25 de Mayo 609;True
